@@ -73,3 +73,9 @@ fabric.properties
 
 # idea folder
 .idea/
+
+#alure results
+allure_results/
+
+#geckoddriver.log
+/geckodriver.log
